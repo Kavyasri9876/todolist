@@ -54,7 +54,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 src/
 - **App.js:** Entry point of the application.
 - **Header.js:** Displays the header and search bar.
-- components/
+  components/
 - **Addtask.js:** Handles adding new tasks.
 - **Content.js:** Main application component.
 - **Footer.js:** Displays the footer with copyright information.
