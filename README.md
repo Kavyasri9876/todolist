@@ -52,12 +52,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Project Structure
 
 src/
+- **App.js:** Entry point of the application.
+- **Header.js:** Displays the header and search bar.
+- components/
+- **Addtask.js:** Handles adding new tasks.
+- **Content.js:** Main application component.
+- **Footer.js:** Displays the footer with copyright information.
 
--**Addtask.js:** Handles adding new tasks.
--**Content.js:** Main application component.
--**Header.js:** Displays the header and search bar.
--**Footer.js:** Displays the footer with copyright information.
--**App.js:** Entry point of the application.
 
 
 ## Code Overview
